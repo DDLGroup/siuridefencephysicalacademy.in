@@ -69,7 +69,13 @@
     <!-- ===== FAVICON ===== -->
     <link rel="icon" type="image/png" href="./images/logo.png" />
     <link rel="apple-touch-icon" href="./images/logo.png" />
-    <link rel="manifest" href="./manifest.json" />
+    <script>
+      // Disable PWA installation prompt
+      window.addEventListener('beforeinstallprompt', function(e) {
+        e.preventDefault();
+        return false;
+      });
+    </script>
 
     <!-- ===== PRECONNECT & FONTS ===== -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
