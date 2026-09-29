@@ -1,0 +1,20 @@
+{
+  "name": "SIURI Defence Physical Academy",
+  "short_name": "SDPA",
+  "description": "Defence Training Academy - Physical and written preparation for Indian Army, BSF, CISF, CRPF, SSC GD, Police, Air Force, Navy & Railways recruitment.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0e08",
+  "theme_color": "#0a0e08",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "./images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

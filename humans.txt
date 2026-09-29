@@ -1,0 +1,14 @@
+/* TEAM */
+  Academy: SIURI Defence Physical Academy
+  Founder: Sayan Pal
+  Location: Suri, Birbhum, West Bengal, India
+  Contact: +91 9007866626
+  Email: siuridefencephysicalacademy@gmail.com
+
+/* SITE */
+  Last update: 2026/09/29
+  Language: English
+  Standards: HTML5, CSS3, JavaScript ES2022
+  Framework: React 19, Vite 8
+  Components: framer-motion, react-router-dom, react-icons
+  Fonts: Cinzel, Montserrat, Rajdhani (Google Fonts)
